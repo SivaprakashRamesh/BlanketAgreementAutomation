@@ -1,0 +1,11 @@
+<BAPRICEQUERY>
+
+		<SALES>
+      exec BAA_Service '%%FromDate%%','%%ToDate%%','S','%%CardCode%%'
+    </SALES>
+
+		<PURCHASE>
+      exec BAA_Service '%%FromDate%%','%%ToDate%%','P','%%CardCode%%'
+    </PURCHASE>
+		
+</BAPRICEQUERY>

@@ -1,0 +1,46 @@
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement - 30092021\BlanketAgreement\bin\Debug\BlanketAgreement.exe.config
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement - 30092021\BlanketAgreement\obj\Debug\BlanketAgreement.exe
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement - 30092021\BlanketAgreement\obj\Debug\BlanketAgreement.xml
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement - 30092021\BlanketAgreement\obj\Debug\BlanketAgreement.pdb
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement - 30092021\BlanketAgreement\bin\Debug\BlanketAgreement.exe
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement - 30092021\BlanketAgreement\bin\Debug\BlanketAgreement.pdb
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement - 30092021\BlanketAgreement\bin\Debug\BlanketAgreement.xml
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement - 30092021\BlanketAgreement\obj\Debug\BlanketAgreement.Resources.resources
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement - 30092021\BlanketAgreement\obj\Debug\BlanketAgreement.vbproj.GenerateResource.Cache
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement\BlanketAgreement\bin\Debug\BlanketAgreement.exe.config
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement\BlanketAgreement\bin\Debug\BlanketAgreement.exe
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement\BlanketAgreement\bin\Debug\BlanketAgreement.pdb
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement\BlanketAgreement\bin\Debug\BlanketAgreement.xml
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.Resources.resources
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.vbproj.GenerateResource.Cache
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.exe
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.xml
+E:\Project\QL\Sourcecode\BlanketAgreement\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.pdb
+E:\Project\KIT Solutions\SourceCodes\BlanketAgreement\BlanketAgreement\bin\Debug\BlanketAgreement.exe.config
+E:\Project\KIT Solutions\SourceCodes\BlanketAgreement\BlanketAgreement\bin\Debug\BlanketAgreement.exe
+E:\Project\KIT Solutions\SourceCodes\BlanketAgreement\BlanketAgreement\bin\Debug\BlanketAgreement.pdb
+E:\Project\KIT Solutions\SourceCodes\BlanketAgreement\BlanketAgreement\bin\Debug\BlanketAgreement.xml
+E:\Project\KIT Solutions\SourceCodes\BlanketAgreement\BlanketAgreement\bin\Debug\Interop.SAPbobsCOM.dll
+E:\Project\KIT Solutions\SourceCodes\BlanketAgreement\BlanketAgreement\bin\Debug\Interop.SAPbouiCOM.dll
+E:\Project\KIT Solutions\SourceCodes\BlanketAgreement\BlanketAgreement\obj\Debug\Interop.SAPbobsCOM.dll
+E:\Project\KIT Solutions\SourceCodes\BlanketAgreement\BlanketAgreement\obj\Debug\Interop.SAPbouiCOM.dll
+E:\Project\KIT Solutions\SourceCodes\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.vbproj.ResolveComReference.cache
+E:\Project\KIT Solutions\SourceCodes\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.Resources.resources
+E:\Project\KIT Solutions\SourceCodes\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.vbproj.GenerateResource.Cache
+E:\Project\KIT Solutions\SourceCodes\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.exe
+E:\Project\KIT Solutions\SourceCodes\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.xml
+E:\Project\KIT Solutions\SourceCodes\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.pdb
+E:\Project\KIT Solutions\SourceCodes\BAPriceAutomation\BlanketAgreement\BlanketAgreement\bin\Debug\BlanketAgreement.exe.config
+E:\Project\KIT Solutions\SourceCodes\BAPriceAutomation\BlanketAgreement\BlanketAgreement\obj\Debug\Interop.SAPbobsCOM.dll
+E:\Project\KIT Solutions\SourceCodes\BAPriceAutomation\BlanketAgreement\BlanketAgreement\obj\Debug\Interop.SAPbouiCOM.dll
+E:\Project\KIT Solutions\SourceCodes\BAPriceAutomation\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.vbproj.ResolveComReference.cache
+E:\Project\KIT Solutions\SourceCodes\BAPriceAutomation\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.exe
+E:\Project\KIT Solutions\SourceCodes\BAPriceAutomation\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.xml
+E:\Project\KIT Solutions\SourceCodes\BAPriceAutomation\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.pdb
+E:\Project\KIT Solutions\SourceCodes\BAPriceAutomation\BlanketAgreement\BlanketAgreement\bin\Debug\BlanketAgreement.exe
+E:\Project\KIT Solutions\SourceCodes\BAPriceAutomation\BlanketAgreement\BlanketAgreement\bin\Debug\BlanketAgreement.pdb
+E:\Project\KIT Solutions\SourceCodes\BAPriceAutomation\BlanketAgreement\BlanketAgreement\bin\Debug\BlanketAgreement.xml
+E:\Project\KIT Solutions\SourceCodes\BAPriceAutomation\BlanketAgreement\BlanketAgreement\bin\Debug\Interop.SAPbobsCOM.dll
+E:\Project\KIT Solutions\SourceCodes\BAPriceAutomation\BlanketAgreement\BlanketAgreement\bin\Debug\Interop.SAPbouiCOM.dll
+E:\Project\KIT Solutions\SourceCodes\BAPriceAutomation\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.Resources.resources
+E:\Project\KIT Solutions\SourceCodes\BAPriceAutomation\BlanketAgreement\BlanketAgreement\obj\Debug\BlanketAgreement.vbproj.GenerateResource.Cache

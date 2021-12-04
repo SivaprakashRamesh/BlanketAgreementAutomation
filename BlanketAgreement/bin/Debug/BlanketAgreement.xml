@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BlanketAgreement
+</name>
+</assembly>
+<members>
+<member name="P:BlanketAgreement.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BlanketAgreement.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:BlanketAgreement.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:BlanketAgreement.clsUtilities.FillRecordSet(System.String)">
+	<summary>
+ get field value
+ </summary>
+	<param name="query"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:BlanketAgreement.clsUtilities.RemoveComboValues(SAPbouiCOM.ComboBox)">
+	<summary>
+ remove combo values
+ </summary>
+	<param name="objComboBox"></param>
+	<remarks></remarks>
+</member><member name="M:BlanketAgreement.clsUtilities.FillComboValues(System.String,SAPbouiCOM.ComboBox)">
+	<summary>
+ fill combo
+ </summary>
+	<param name="strSQL"></param>
+	<remarks></remarks>
+</member><member name="M:BlanketAgreement.clsUtilities.releaseObject(System.Object)">
+	<summary>
+ release com
+ </summary>
+	<param name="obj"></param>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
